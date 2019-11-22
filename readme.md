@@ -15,4 +15,8 @@ Séance 3: 8 novembre 2019
 -> Ultrason x 2
 -> Faire un check de matériel
 
+Séance 4: 
 
+-> imprimer moule pour semelle 
+-> creer PCB
+-> Creer desus chaussons
