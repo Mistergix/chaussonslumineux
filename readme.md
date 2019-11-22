@@ -1,4 +1,4 @@
-WIKI : ((http://fablab.sorbonne-universites.fr/wiki/doku.php?id=wiki:projets:chaussonslumineux#ajout_d_un_capteur_capacitif))
+WIKI : ((http://fablab.sorbonne-universites.fr/wiki/doku.php?id=wiki:projets:chaussonslumineux))
 
 Séance 2: 25 octobre 2019
 
